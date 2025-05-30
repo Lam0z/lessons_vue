@@ -1,8 +1,4 @@
-<template>
-    <NuxtLayout>
-        <NuxtPage />
-    </NuxtLayout>
-</template>
+<template>ll</template>
 
 <script setup></script>
 
