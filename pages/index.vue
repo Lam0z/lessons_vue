@@ -1,4 +1,8 @@
-<template>ll</template>
+<template>
+    <LPart title="Home Page">
+        <p>Welcome page</p>
+    </LPart>
+</template>
 
 <script setup></script>
 
