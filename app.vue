@@ -1,4 +1,6 @@
 <template>
-    <div>asd</div>
+    <NuxtLayout>
+        <NuxtPage />
+    </NuxtLayout>
 </template>
 <style lang="scss"></style>
