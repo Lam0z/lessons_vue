@@ -4,6 +4,7 @@ const links = [
     { name: "Основы реактивности", path: "/reactive" },
     { name: "Вычисляемые свойства", path: "/computed" },
     { name: "Работа с классами и стилями", path: "/styles" },
+    { name: "Условная отрисовка", path: "/conditions" },
     // { name: "Contact", path: "/contact" },
 ];
 </script>
