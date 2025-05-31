@@ -2,6 +2,7 @@
 const links = [
     { name: "Синтаксис шаблонов", path: "/syntax" },
     { name: "Основы реактивности", path: "/reactive" },
+    { name: "Вычисляемые свойства", path: "/computed" },
     // { name: "Contact", path: "/contact" },
 ];
 </script>
