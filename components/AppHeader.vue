@@ -1,7 +1,7 @@
 <script setup>
 const links = [
     { name: "Синтаксис шаблонов", path: "/syntax" },
-    // { name: "About", path: "/about" },
+    { name: "Основы реактивности", path: "/reactive" },
     // { name: "Contact", path: "/contact" },
 ];
 </script>
