@@ -1,8 +1,8 @@
 <script setup>
 const links = [
-    { name: "Home", path: "/" },
-    { name: "About", path: "/about" },
-    { name: "Contact", path: "/contact" },
+    { name: "Синтаксис шаблонов", path: "/syntax" },
+    // { name: "About", path: "/about" },
+    // { name: "Contact", path: "/contact" },
 ];
 </script>
 
