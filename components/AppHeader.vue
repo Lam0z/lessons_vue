@@ -6,6 +6,8 @@ const links = [
     { name: "Работа с классами и стилями", path: "/styles" },
     { name: "Условная отрисовка", path: "/conditions" },
     { name: "Отрисовка списков", path: "/lists" },
+    { name: "Cобытия", path: "/events" },
+    { name: "Работа с формами", path: "/forms" },
     // { name: "Contact", path: "/contact" },
 ];
 </script>
